@@ -16,4 +16,4 @@ Here are some of the technologies I work with:
 
 ## 📊 Language Stats
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Kawaragi-Senju&layout=compact)
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=Kawaragi-Senju&layout=compact)]
